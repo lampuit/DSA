@@ -70,6 +70,7 @@ int main()
     //cout << "Nhap so tam go con thua: ";
     int m; cin >> m;
     int* b = new int [m];
+    //cout << "Nhap do dai cua cac tam go con thua: ";
     for (int j = 0; j < m; j++) cin >> b[j];
     SuaHangRao(a, b, n, m);
     return  0;
