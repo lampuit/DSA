@@ -1,13 +1,3 @@
-﻿// bai_1.1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//Bài 1.1: Tạo một cây nhị phân tìm kiếm, trong đó trường Key tại mỗi nút là một số nguyên dương. Hãy viết hàm thực hiện các thao tác sau:
-//a.Người dùng nhập vào các giá trị đến khi nhập - 1 thì dừng(giá trị - 1 không thuộc cây)
-//b.In cây nhị phân tìm kiếm nói trên theo các thứ tự tăng dần, giảm dần.
-//c.Tìm một nút có khoá bằng X trên cây.
-//d.Xoá 1 nút có khoá bằng X trên cây, nếu không có thì thông báo không có.
-//e.Đếm số nút trong cây
-//f.Tính chiều cao của cây
-//g.	(*) Xuất cây nhị phân theo tầng.
-
 #include <iostream>
 #include <queue>
 using namespace std;
